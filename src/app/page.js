@@ -13,7 +13,9 @@ export default function page() {
           "/villaPhoto/Zenithy19.jpg",
           "/villaPhoto/Breeze36.JPG",
         ]}
-      /></div>
+      />
+      <div className='h-screen'></div>
+      </div>
 
   )
 }
